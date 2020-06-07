@@ -8,3 +8,5 @@ Naming Standards for Projects.
 
 List of Android Repositories ( Working Fine / Sucess and Curated )
 1. Android_Pi_Chart 
+2. Android_Line_Chart       ( there were so many unnecessary liberaries in Phil Jays code . This one is a clean code ).
+
