@@ -14,5 +14,10 @@ List of Android Repositories ( Working Fine / Sucess and Curated )
 
 List of Python ML based Model Repositories.
 1.Python_Face_Matching_Deep_Face
-2.Python_Face_Pose_Estimation
+
+
+
+
+List of Projects which are not Complete but still usable. 
+1.Python_Face_Pose_Estimation
 
